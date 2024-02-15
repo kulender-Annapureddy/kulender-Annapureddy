@@ -2,8 +2,7 @@
 This is Kulender Annapureddy...
 - 🌱 I’m currently learning Full-stack Development (Intermediate level).
 - 👯 Happy to collaborate with anyone to explore and improve my skills in web development.
-- - 📫 you can  reach me:  (https://kulender-portfolio.onrender.com/)
-  - 
+- - 📫 you can  reach me: https://kulender-portfolio.onrender.com/ 
 
 <!--
 **kulender-Annapureddy/kulender-Annapureddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
